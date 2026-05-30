@@ -1,0 +1,16 @@
+*.class
+build/
+target/
+out/
+
+.idea/
+*.iml
+*.iws
+.DS_Store
+
+*.log
+
+application.conf.local
+*.secret
+
+*.jar
